@@ -1,11 +1,9 @@
 Wellcome To My Profile
+In my free time I study Cyber Security, Cryptography, Computer Science;
 
-In my free time I study cryptography, computer science and philosophy;
-
-- **Languages**: Rust, C++, Python, JavaScript
+- **Languages**: Rust,C/C++, Python, 
 - **Cybersecurity**: Threat detection, incident response, vulnerability analysis
 - **AI/ML**: PyTorch, TensorFlow, NLP, computer vision
-- **Web**: React, Node.js, Flask
 - **Tools**: Wireshark, Metasploit, Docker, GitHub Actions
 
 - Built and contributed to cyber defense tools
